@@ -102,4 +102,4 @@ student.exe
 
 ## Author
 
-Dhineshkumar L
+Dinesh Kumar L
